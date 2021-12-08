@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Kumbh Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-image: -webkit-gradient(linear, left top, right top, from(#b2b5947a), to(#b2b594b2));
+  background-image: linear-gradient(to right, #b2b5947a, #b2b594b2);
+}
+/*# sourceMappingURL=main.css.map */
